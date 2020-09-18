@@ -24,5 +24,5 @@ variable "instance_type" {
 }
 variable "environment_tag" {
   description = "Environment tag"
-  default = "Development"
+  default = "variableterraformtest"
 }
